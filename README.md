@@ -1,4 +1,4 @@
-# PRC2021
+# PRC2020
 Processamento e Representação de Conhecimento (2020/2021, Universidade do Minho, MIEI) 
 
 Conteúdo: 
